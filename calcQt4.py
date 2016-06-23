@@ -1,4 +1,4 @@
-__author__ = deus aka sev
+__author__ = "deus aka sev"
 __license__ = "GPL"
 
 #Window Code
