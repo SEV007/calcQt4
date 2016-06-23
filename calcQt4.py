@@ -1,3 +1,5 @@
+__author__ = deus aka sev
+__license__ = "GPL"
 
 #Window Code
 from __future__ import division #default float division
