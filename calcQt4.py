@@ -1,13 +1,13 @@
-__author__ = "deus aka sev"
-__license__ = "GPL"
-__version__ = "1.0.1"
-
 #Window Code
 from __future__ import division #default float division
 from PyQt4.QtCore import *
 from PyQt4.QtGui import * #Widgets import
 
 import sys
+
+__author__ = "deus aka sev"
+__license__ = "GPL"
+__version__ = "1.0.1"
 
 class Window(QWidget):
 
