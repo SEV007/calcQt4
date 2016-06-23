@@ -1,6 +1,6 @@
 
 #Window Code
-from __future__ import division
+from __future__ import division #default float division
 from PyQt4.QtCore import *
 from PyQt4.QtGui import * #Widgets import
 
