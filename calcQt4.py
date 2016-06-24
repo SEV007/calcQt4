@@ -8,6 +8,8 @@ import sys
 __author__ = "deus aka sev"
 __license__ = "GPL"
 __version__ = "1.0.1"
+__maintainer__ = "sev"
+__status__ = "project"
 
 class Window(QWidget):
 
